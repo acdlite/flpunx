@@ -1,0 +1,44 @@
+{
+  "name": "flpunx",
+  "version": "1.0.0",
+  "description": "Better than all the other Flux libraries combined!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acdlite/flpunx.git"
+  },
+  "homepage": "https://github.com/acdlite/flpunx/blob/latest/README.md",
+  "bugs": "https://github.com/acdlite/flpunx/issues",
+  "dependencies": {
+    "alt": "~0.14.4",
+    "flummox": "~3.1.2",
+    "flux": "~2.0.1",
+    "fluxible": "~0.3.0",
+    "fluxxor": "~1.5.2",
+    "mcfly": "~0.0.10",
+    "marty": "~0.9.0",
+    "react": "~0.13.1",
+    "reflux": "~0.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "flux",
+    "fluxjs",
+    "alt",
+    "flummox",
+    "fluxible",
+    "fluxxor",
+    "reflux",
+    "marty",
+    "mcfly",
+    "react",
+    "reactjs",
+    "hashtag",
+    "modular"
+  ],
+  "author": "Andrew Clark <acdlite@me.com>",
+  "license": "MIT"
+}
