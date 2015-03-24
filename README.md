@@ -33,6 +33,7 @@ Roadmap
 - [ ] Submit pull request to the [Flux Comparison repo](https://github.com/voronianski/flux-comparison).
 - [ ] Spam [@reactjs](https://twitter.com/reactjs) on Twitter until they retweet us.
 - [ ] Create channel in [Reactiflux](http://reactiflux.com/).
+- [ ] Add pronunciation guide.
 - [ ] Annihilate the entire repo once Relay is released.
 
 If someone can think of a better pun on the word "flux," let me know and I'll create a new library that's even better than this one.
