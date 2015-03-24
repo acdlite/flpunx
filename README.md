@@ -35,6 +35,7 @@ Roadmap
 - [ ] Create channel in [Reactiflux](http://reactiflux.com/).
 - [ ] Add pronunciation guide.
 - [ ] Annihilate the entire repo once Relay is released.
+- [ ] Include a link to my personal Twitter account and ask people to follow me
 
 If someone can think of a better pun on the word "flux," let me know and I'll create a new library that's even better than this one.
 
