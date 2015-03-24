@@ -19,7 +19,7 @@ All examples are in ES6/7/2015/next, so if you have any trouble reading it, you 
 
 ```js
 // Import modularly. So clean.
-import { flux, flummox, fluxxor, alt, fluxible, reflux, marty, mcfly } from 'flpunx';
+import { flux, relay, flummox, fluxxor, alt, fluxible, reflux, marty, mcfly } from 'flpunx';
 
 (async () => {
   // Just use it here! That's it! It couldn't be easier!
@@ -34,7 +34,7 @@ Roadmap
 - [ ] Spam [@reactjs](https://twitter.com/reactjs) on Twitter until they retweet us.
 - [ ] Create channel in [Reactiflux](http://reactiflux.com/).
 - [ ] Add pronunciation guide.
-- [ ] Annihilate the entire repo once Relay is released.
+- [X] ~~Annihilate the entire repo once Relay is released.~~ Be even better than Relay.
 - [ ] Include a link to my personal Twitter account and ask people to follow me
 
 If someone can think of a better pun on the word "flux," let me know and I'll create a new library that's even better than this one.
