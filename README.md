@@ -5,6 +5,8 @@ Flpunx
 
 Better than all the other Flux libraries combined!
 
+"The way of the future, only it's now" - [Michael Ridgway](https://twitter.com/theridgway/status/580865159733735424)
+
 What the Flux?
 --------------
 
